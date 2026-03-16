@@ -41,3 +41,5 @@ This repository integrates the transaction-scoring ML model originally developed
 2. Install the required dependencies:
    `pip install -r requirements.txt`
 3. Download the `creditcard.csv` dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and place it into the data folder
+4. Run the generate_mock_data.ipynb to generate mock data and randomly stitch customer data to transactions for a mock data set
+5. Run `streamlit run app.py` in terminal
