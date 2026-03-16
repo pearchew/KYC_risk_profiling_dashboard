@@ -35,9 +35,9 @@ This repository integrates the transaction-scoring ML model originally developed
 * **Machine Learning:** `scikit-learn`
 * **Development:** VS Code, Jupyter Notebooks
 
-## 🚀 Quick Start / Installation
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/pearchew/aml-compliance-dashboard.git](https://github.com/pearchew/aml-compliance-dashboard.git)
-cd aml-compliance-dashboard
+## 🚀 How to Run the Project
+1. Clone the repository:
+   `git clone https://github.com/pearchew/aml-compliance-dashboard.git]`
+2. Install the required dependencies:
+   `pip install -r requirements.txt`
+3. Download the `creditcard.csv` dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and place it into the data folder
